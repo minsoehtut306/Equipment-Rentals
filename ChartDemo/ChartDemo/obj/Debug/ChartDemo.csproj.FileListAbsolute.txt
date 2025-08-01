@@ -1,0 +1,20 @@
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csprojAssemblyReference.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.exe
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.pdb
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.AssemblyReference.cache
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.CoreCompileInputs.cache
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.exe
+C:\Users\minso\Desktop\New Zealand\OneDrive\OneDrive - The University of Waikato\Waikato\2nd_Year\COMPX223-24A - Database Practice and Experience\04_Project\Deliverable 2\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.pdb
