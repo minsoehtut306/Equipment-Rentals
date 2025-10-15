@@ -1,4 +1,4 @@
-# INTRO_USERS – Windows Forms Database Application
+# Equipment-Rentals – Windows Forms Database Application
 
 A simple **C# Windows Forms** project with a **SQL Server** backend.  
 It demonstrates user login, registration, and browsing of session data linked to social media platforms.
@@ -41,4 +41,5 @@ It is published here solely for educational and portfolio purposes, to showcase 
 
 All code presented is my own work. Course-specific materials such as assignment descriptions or test data are not included to respect university policies.  
 
-
+## Academic Integrity
+Portfolio-only; not intended for reuse in coursework. Removal on request.
